@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Jonathan Sastre</h1>
-<h3 align="center">I am engineer and technologist awaiting degree, passionate about new 4G and 5G technologies such as Cloud Computing. I have experience in the area of frontend development.</h3>
+<h3 align="center">I am Systems engineer, passionate about new 4G and 5G technologies such as Cloud Computing. I have experience in the area of frontend development.</h3>
 
 - 🔭 I was working on **Mobile aplication**
 
