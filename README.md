@@ -3,11 +3,11 @@
 
 - 🔭 I was working on **Mobile aplication**
 
-- 🌱 I am currently learning **ReactJS**
+- 🌱 I am currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at (http://www.github.com/jsastre1)
 
-- 💬 Ask me about **Html, css, AngularJS, IonicJS, Mysql, PostgreSQL**
+- 💬 Ask me about **Html, css, AngularJS,ReactJs,IonicJS, Mysql, PostgreSQL, powerapps, SharePoint, WordPress, php**
 
 - 📫 How to reach me **jonathansastre@gmail.com**
 
