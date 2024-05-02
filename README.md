@@ -3,7 +3,7 @@
 
 - 🔭 I was working on **Mobile aplication**
 
-- 🌱 I am currently learning **JavaScript**
+- 🌱 I am currently learning **.Net fullstack developer**
 
 - 👨‍💻 All of my projects are available at (http://www.github.com/jsastre1)
 
