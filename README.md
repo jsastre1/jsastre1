@@ -3,7 +3,7 @@
 
 - 🔭 I was working on **Web application**
 
-- 🌱 I am currently learning *Back-end Developer**
+- 🌱 I am currently learning *Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at (http://www.github.com/jsastre1)
 
