@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I am Jonathan Sastre</h1>
-<h3 align="center">I am Systems engineer, passionate about new 4G and 5G technologies such as Cloud Computing. I have experience in the area of frontend development.</h3>
+<h3 align="center">I am Systems engineer, passionate about new Tecnology as Atifical intelligence, Cloud Computing, Frameworks. I have experience in the area of frontend development.</h3>
 
-- 🔭 I was working on **Web application**
+- 🔭 I was working on **Web application, Web sites**
 
 - 🌱 I am currently learning *Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at (http://www.github.com/jsastre1)
 
-- 💬 Ask me about **Html, css, AngularJS,ReactJs,IonicJS, Mysql, PostgreSQL, Powerapps, SharePoint, WordPress, php, Bubble, Insomnia, Postman, JavaScript, Django, Asp .Net**
+- 💬 Ask me about **Html, css, AngularJS, IonicJS, Mysql, PostgreSQL, WordPress, Php, Bubble, Insomnia, Postman, JavaScript, Boostrap, Git,  APIs, Seo, Canva**
 
 - 📫 How to reach me **jonathansastre@gmail.com**
 
