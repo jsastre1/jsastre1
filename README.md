@@ -18,7 +18,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathansastre" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tecnologias que he trabajado en proyectos y empresas</h3>
+<h3 align="left">Tecnologias que he trabajado en proyectos personales y empresas</h3>
 <p align="left"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="30" height="30"/> 
