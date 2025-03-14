@@ -9,26 +9,6 @@
 
 - 🤝 Todos mis proyectos están disponibles en [https://github.com/jsastre1](https://github.com/jsastre1)
 
-- 💬 Pregúntame sobre **Html, css, AngularJS, IonicJS, Mysql, WordPress, Php, Insomnia, Postman, JavaScript, Boostrap, APIs, Seo, Canva**
-
-- 📫 Cómo contactarme
-
-**jonathansastre@gmail.com** Conéctate conmigo: <p>
-<a href="https://linkedin.com/in/jonathansastre" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathansastre" height="30" width="40" /></a>
-</p>
-
-<h1 align="center">Hola 👋, soy Jonathan Sastre</h1>
-<h3 align="center">Soy ingeniero de sistemas y me apasionan las nuevas tecnologías como la inteligencia artificial, la computación en la nube y los frameworks. Tengo experiencia en desarrollo frontend.</h3>
-
-- 🔭 Actualmente estoy trabajando en [https://github.com/jsastre1/JikTIC](https://github.com/jsastre1/JikTIC)
-
-- 🌱 Actualmente estoy **Haciendo proyectos**
-
-- 👯 Estoy aprendiendo y practicando como desarrollador frontend [https://github.com/jsastre1/Pet-store](https://github.com/jsastre1/Pet-store)
-
-- 🤝 Todos mis proyectos están disponibles en [https://github.com/jsastre1](https://github.com/jsastre1)
-
 - 💬 Pregúntame sobre ** Copilot, Chatgpt, Bito, Seo, Google analytics, Google trends, Page Speed, Canva, Html, css, AngularJS, IonicJS, Mysql, WordPress, Php, Insomnia, Postman, JavaScript, Boostrap, APIs, Blogger, Shopify*
 
 - 📫 Cómo contactarme
