@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en [https://github.com/jsastre1/JikTIC](https://github.com/jsastre1/JikTIC)
 
-- 🌱 Actualmente estoy **Haciendo proyectos**
+- 🌱 Actualmente estoy **Haciendo proyectos personales**
 
 - 👯 Estoy aprendiendo y practicando como desarrollador frontend [https://github.com/jsastre1/Pet-store](https://github.com/jsastre1/Pet-store)
 
